@@ -17,7 +17,7 @@ Server
 
 Debian / Ubuntu:
 
-    apt-get install python-pip
+    apt-get install python-pip python-setuptools
     pip install shadowsocks
 
 CentOS:
